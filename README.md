@@ -1,1 +1,1 @@
-# odin-recipes
+My first project that is about my favourite recipes.
